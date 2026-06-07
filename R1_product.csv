@@ -1,0 +1,3 @@
+quantity,value,note
+R(1),0.396881,global j=1 product = S_quad / S_twin^2 (all primes State C)
+R_5(1),0.555556,single q=5 State C factor 5(5-4)/(5-2)^2
