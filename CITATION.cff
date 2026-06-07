@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The Circular Convolution of Prime Constellations in Congruence Phase Space (Part XX)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-07"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-phase-space"
+keywords:
+  - prime constellations
+  - twin primes
+  - circle method
+  - singular series
+  - circular convolution
+  - phase space
+  - congruence interference
+  - experimental mathematics
+  - number theory
+references:
+  - type: article
+    title: "Some problems of 'Partitio Numerorum'; III: On the expression of a number as a sum of primes"
+    authors:
+      - {family-names: Hardy, given-names: "G. H."}
+      - {family-names: Littlewood, given-names: "J. E."}
+    journal: "Acta Mathematica"
+    volume: 44
+    year: 1923
+    start: 1
+    end: 70
+  - type: software
+    title: "The Tuple-Size Law at m=5: Resolving the Sparse Regime (Part XIX)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20551393
